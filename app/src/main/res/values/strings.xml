@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="btn_submit_text">OK</string>
+</resources>

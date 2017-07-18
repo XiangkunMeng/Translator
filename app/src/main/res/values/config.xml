@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key">50A2DF46D372DE3B8A6EC3C92F4FD8F6</string>
+    <string name="request_url">http://dict-co.iciba.com/api/dictionary.php</string>
+</resources>
